@@ -1,0 +1,10 @@
+A;17;B
+B;58;A,H,I,J
+C;53;I
+D;88;F,J
+E;91;F,G,H
+F;29;D,E,G,H,I
+G;98;E,F
+H;70;B,E,F,I
+I;25;B,C,F,H
+J;17;B,D

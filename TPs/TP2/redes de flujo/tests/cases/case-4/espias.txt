@@ -1,0 +1,6 @@
+Espia 1,A
+Espia 2,B
+Espia 3,C
+Centro 1,D
+Centro 2,E
+Centro 3,F
